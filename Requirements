@@ -1,0 +1,18 @@
+Code Tester Requirements:
+Python Version: >=3.6 (Preferably 3.9+ for better compatibility)
+Pygments — for syntax highlighting
+
+OS: Windows Only
+Make sure to run in admin rights for the best results
+
+System-Level Requirements (for compilers/interpreters)
+Depending on which languages you're running, the following must be installed and added to your system's PATH:
+
+Language	Required Software
+Python	Python (obviously)
+Java	JDK (Java Development Kit)
+C / C++	GCC (MinGW for Windows)
+JavaScript	Node.js
+Go	Golang compiler (go)
+Rust	Rust toolchain (rustc, cargo)
+⚠️ If you don’t add these to the system PATH, subprocess calls will fail or throw “command not found” errors. ⚠️
