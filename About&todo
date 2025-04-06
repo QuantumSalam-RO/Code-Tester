@@ -1,0 +1,13 @@
+To do List for Code Tester:
+
+Integrated Package Manager: Allow users to easily add, remove, and manage dependencies like DirectX, OpenGL, Vulkan, and other libraries.
+Automated Dependency Resolution: Automatically resolve and install dependencies based on the project configuration.
+Code Auto-Completion and IntelliSense
+Provide code auto-completion and IntelliSense for supported languages to enhance productivity.
+Advanced Debugging Tools
+
+Plans with CT:
+Started out as a Code tester only in Python and java but went on to be inspired by VS
+Rank the potential features based on user feedback and project goals.
+Focus on implementing the most impactful features first.
+Plan to develop a team for this app and promote it on social media
